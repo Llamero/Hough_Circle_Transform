@@ -13,10 +13,10 @@
 	</parent>
 
 	<groupId>sc.fiji</groupId>
-	<artifactId>Process_Pixels</artifactId>
+	<artifactId>HoughCirclesEdit</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
-	<name>plugins/Process_Pixels.jar</name>
+	<name>plugins/Hough_Circles_Edit.jar</name>
 	<description>A Maven project implementing an ImageJ 1.x plugin</description>
 
 	<developers>
